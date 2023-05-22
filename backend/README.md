@@ -6,6 +6,9 @@
 Backend hecho con NestJs, un poderoso framework de javascript, diseñado para crear aplicaciones grandes, escalables y manteibles.
 ```
 
+```
+Para la base de datos utilice Postgres con Docker, pero para prueba vasta con tener instalado Postgress y llenar las variables de entorno.
+```
 
 # Prueba Backend
 1. Clonar proyecto
