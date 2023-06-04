@@ -28,3 +28,7 @@ de su preferencia (SQL Server, Oracle, SQLite, Compass) así
 como su respectivo lenguaje de consulta asociado a esta.
 
 ```Leer la documentacion de cada proyecto, frontend y backend```
+
+<a href="https://gilded-rabanadas-441271.netlify.app">Aqui puede encontrar la APP en produccion</a>
+
+<a href="https://backend-prueba-production.up.railway.app/api#/">Aqui puede encontrar la documentacion de la API, todos los enpoints</a>
